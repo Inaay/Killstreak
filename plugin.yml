@@ -1,5 +1,6 @@
 name: Killstreak
-version: 1.0.0
 main: Inaayat\Killstreak\Main
-api: 4.16.0
+api: 4.0.0
+version: 1.0.0
 author: Inaayat
+description: A fully customizable killstreak plugin by Inaayat
