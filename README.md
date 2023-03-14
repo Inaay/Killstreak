@@ -11,6 +11,7 @@
     <ol>
       <li>Put the plugin in your /plugins folder.</li>
       <li>Restart your server.</li>
+      <li>Edit /plugin_data/Killstreak/config.yml</li>
     </ol>
 	<h2>License</h2>
 	<p>This plugin is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
