@@ -1,0 +1,5 @@
+name: Killstreak
+version: 1.0.0
+main: Inaayat\Killstreak\Main
+api: [4.0.0, 5.0.0]
+author: Inaayat

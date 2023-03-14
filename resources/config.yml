@@ -1,0 +1,26 @@
+# Killstreak Config
+# {player} = player name
+# {milestone} = milestone reached
+# use & for color
+
+killstreak:
+  5:
+    milestone: 5
+    command: "give {player} diamond 1"
+    milestoneReached: "Milestone 1"
+  10:
+    milestone: 10
+    command: "give {player} diamond 1"
+    milestoneReached: "Milestone 2"
+  15:
+    milestone: 15
+    command: "give {player} diamond 1"
+    milestoneReached: "Milestone 3"
+  100:
+    milestone: 100
+    command: "give {player} diamond 1"
+    milestoneReached: "Milestone 4"
+  
+# Broadcast when a player reach a certain milestone
+Broadcast: true
+BroadcastMessage: "&c{player} &fhas reached a killstreak of &c{milestone}!"
