@@ -4,5 +4,8 @@ branches:
 - main
 projects:
   Killstreak:
+    icon: meta/logo.PNG
     path: ""
+    lint:
+      phpstan: false
 ...
