@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
   </head>
   <body>
-    <img src="https://media.discordapp.net/attachments/1054460415490408549/1085248708129587260/D41ivJC.png" alt="KillStreak logo">
+    <img src="https://github.com/Inaay/Killstreak/blob/main/meta/Logo.png" alt="KillStreak logo">
     <h1>KillStreak</h1>
     <p>A Killstreak plugin for PocketMine 4.0.0 and 5.0.0</p>
     <h2>Installation</h2>
