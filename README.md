@@ -6,7 +6,7 @@
   <body>
     <img src="https://github.com/Inaay/Killstreak/blob/main/meta/Logo.png" alt="KillStreak logo">
     <h1>KillStreak</h1>
-    <p>A Killstreak plugin for PocketMine 4.0.0 and 5.0.0</p>
+    <p>A Killstreak plugin for PocketMine</p>
     <h2>Installation</h2>
     <ol>
       <li>Put the plugin in your /plugins folder.</li>
