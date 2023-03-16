@@ -5,7 +5,7 @@
   </head>
   <body>
     <img src="https://github.com/Inaay/Killstreak/blob/main/meta/Logo.png" alt="KillStreak logo">
-    <h1>KillStreak</h1>
+    <h1>KillStreak</h1> <a href="https://poggit.pmmp.io/p/BetterKillstreak"><img src="https://poggit.pmmp.io/shield.state/BetterKillstreak"></a>
     <p>A Killstreak plugin for PocketMine</p>
     <h2>Installation</h2>
     <ol>
