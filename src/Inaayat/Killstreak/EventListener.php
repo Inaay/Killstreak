@@ -1,8 +1,24 @@
 <?php
 
+/**
+ *
+ *  ██ ███    ██  █████   █████  ██    ██  █████  ████████
+ *  ██ ████   ██ ██   ██ ██   ██  ██  ██  ██   ██    ██
+ *  ██ ██ ██  ██ ███████ ███████   ████   ███████    ██
+ *  ██ ██  ██ ██ ██   ██ ██   ██    ██    ██   ██    ██
+ *  ██ ██   ████ ██   ██ ██   ██    ██    ██   ██    ██
+
+ *
+ * @author Inaayat
+ * @link https://github.com/Inaay
+ *
+ */
+
+declare(strict_types=1);
+
 namespace Inaayat\Killstreak;
 
-use Inaayat\Core\Main;
+use Inaayat\Killstreak\Main;
 use pocketmine\console\ConsoleCommandSender;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\event\Listener;
